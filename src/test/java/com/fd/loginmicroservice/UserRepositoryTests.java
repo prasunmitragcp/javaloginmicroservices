@@ -1,6 +1,7 @@
 package com.fd.loginmicroservice;
 
-import static org.junit.jupiter.api.Assertions.assertEquals;
+
+import static org.junit.Assert.assertEquals;
 
 import org.hibernate.mapping.PrimaryKey;
 import org.springframework.beans.factory.annotation.Autowired;
